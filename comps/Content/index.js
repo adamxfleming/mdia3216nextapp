@@ -17,6 +17,6 @@ const Content = ({children, bgcolor}) =>{
 
 Content.defaultProps = {
     bgcolor:'#DEFECD',
-}
+} 
 
 export default Content;
